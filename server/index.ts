@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(cors());
 
 app.get('/', (req: Request, res: Response) => {
-  res.send('Hello World From the Typescript Server!')
+  res.send('Hello World From the Typescript Server test!')
 });
 
 const port = process.env.PORT || 8000;
