@@ -1,0 +1,8 @@
+[
+    {
+        "id": "1",
+        "title": "Complete Task Manager App",
+        "description": "Finish implementing the Task Manager app with Express and React",
+        "completed": false
+    }
+]
